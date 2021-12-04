@@ -232,8 +232,7 @@ color: var(--third-text-color);
 
 .header-second-section-portfolio-blocks {
 font-family: var(--main-text-font);
-font-style: normal;
-font-weight: 700px;
+font-weight: 700;
 font-size: 18px;
 line-height: 2;
 letter-spacing: 0.06em;
@@ -242,8 +241,7 @@ color: var(--main-text-color);
 
 .text-second-section-portfolio-blocks {
 font-family: var(--main-text-font);
-font-style: normal;
-font-weight: 400px;
+font-weight: 400;
 font-size: 16px;
 line-height: 1.875;
 letter-spacing: 0.03em;
